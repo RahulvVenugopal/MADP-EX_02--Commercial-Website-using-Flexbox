@@ -1,7 +1,7 @@
 # Ex02 Commercial Website
 
 ## Date:
-*(Add your date here)*
+*Add Date Here*
 
 ---
 
@@ -11,63 +11,33 @@ To create a commercial website using CSS Flexbox.
 ---
 
 ## ALGORITHM
-
-### STEP 1
-Create an HTML file (`index.html`).
-
-### STEP 2
-Create a CSS file (`style.css`).
-
-### STEP 3
-Include a navigation bar with links to different sections.
-
-### STEP 4
-Add structured sections for Homepage, Products / Services, About Us, Contact Details, and User Account.
-
-### STEP 5
-Include social media links at the footer with copyright information.
-
-### STEP 6
-Define global styles for fonts, colors, and layout.
-
-### STEP 7
-Style the header, navigation bar, and sections.
-
-### STEP 8
-Use Flexbox for layout design.
-
-### STEP 9
-Add hover effects and transitions for interactivity.
-
-### STEP 10
-Add Images and Media.
-
-### STEP 11
-Use optimized images for a professional look.
-
-### STEP 12
-Open the HTML file in a browser to check layout and functionality.
-
-### STEP 13
-Fix styling issues and refine content placement.
-
-### STEP 14
-Deploy the website.
-
-### STEP 15
-Upload to GitHub Pages for free hosting.
+1. **STEP 1:** Create an HTML file (`index.html`).
+2. **STEP 2:** Create a CSS file (`style.css`).
+3. **STEP 3:** Include a navigation bar with links to different sections.
+4. **STEP 4:** Add structured sections for Homepage, Products / Services, About Us, Contact Details, and User Account.
+5. **STEP 5:** Include social media links at the footer with copyright information.
+6. **STEP 6:** Define global styles for fonts, colors, and layout.
+7. **STEP 7:** Style the header, navigation bar, and sections.
+8. **STEP 8:** Use Flexbox for layout design.
+9. **STEP 9:** Add hover effects and transitions for interactivity.
+10. **STEP 10:** Add images and media.
+11. **STEP 11:** Use optimized images for a professional look.
+12. **STEP 12:** Open the HTML file in a browser to check layout and functionality.
+13. **STEP 13:** Fix styling issues and refine content placement.
+14. **STEP 14:** Deploy the website.
+15. **STEP 15:** Upload to GitHub Pages for free hosting.
 
 ---
 
 ## PROGRAM
-*(Paste your HTML, CSS, and JavaScript code here)*
+*(Add your HTML and CSS code here in fenced code blocks)*
 
 ---
 
 ## OUTPUT
-*(Add screenshots of your website output here)*
+*(Add screenshots or preview images here)*
 
 ---
 
 ## RESULT
-The program for creating a commercial website using CSS Flexbox is executed successfully.
+The program for creating a commercial website using CSS Flexbox was executed successfully.
