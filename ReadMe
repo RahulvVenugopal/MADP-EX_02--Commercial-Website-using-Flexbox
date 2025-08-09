@@ -1,21 +1,28 @@
 # Ex02 Commercial Website
+
 ## Date:
+*(Add your date here)*
+
+---
 
 ## AIM
 To create a commercial website using CSS Flexbox.
 
+---
+
 ## ALGORITHM
+
 ### STEP 1
-Create an HTML file (index.html)
+Create an HTML file (`index.html`).
 
 ### STEP 2
-Create a CSS file (style.css)
+Create a CSS file (`style.css`).
 
 ### STEP 3
 Include a navigation bar with links to different sections.
 
 ### STEP 4
-Add structured sections for Homepage, Products / Services, About Us, Contact Details and User Account.
+Add structured sections for Homepage, Products / Services, About Us, Contact Details, and User Account.
 
 ### STEP 5
 Include social media links at the footer with copyright information.
@@ -50,11 +57,17 @@ Deploy the website.
 ### STEP 15
 Upload to GitHub Pages for free hosting.
 
-## PROGRAM
+---
 
+## PROGRAM
+*(Paste your HTML, CSS, and JavaScript code here)*
+
+---
 
 ## OUTPUT
+*(Add screenshots of your website output here)*
 
+---
 
 ## RESULT
-The program for creating commercial website using CSS Flexbox is executed successfully.
+The program for creating a commercial website using CSS Flexbox is executed successfully.
