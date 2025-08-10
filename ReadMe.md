@@ -58,70 +58,93 @@ Upload to GitHub Pages for free hosting.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>MyShop - Commercial Website</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <header>
+        <div class="logo">Clyro </div>
         <nav>
-            <div class="logo">Portfolio</span></div>
-            <ul class="nav-links">
-                <li><a href="#intro">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#about">About Us</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li><a href="#account">Account</a></li>
             </ul>
         </nav>
     </header>
 
-   
-    <section id="intro" class="hero">
-        <h1>Hi, I'm <span>Rahul</span></h1>
-        <p>I am a passionate Web Developer eager to create impactful and beautiful designs.</p>
-        <a href="#projects" class="btn">View Projects</a>
+    <section id="home" class="hero">
+        <h1>Welcome to Clyro </h1>
+        <p>Your one-stop destination for quality electronic products.</p>
+        <button>Shop Now</button>
     </section>
 
-    <section id="about" class="about">
-        <h2>About Me</h2>
-        <p>
-            Hi! I'm a web developer with skills in <span>HTML</span>, <span>CSS</span>, and <span>JavaScript</span>. 
-            I love creating interactive and user-friendly websites.Making code that’s easy to use and nice to see.
-
-
-        </p>
-    </section>
-
-    <section id="projects" class="projects">
-        <h2>Projects</h2>
-        <div class="project-container">
-            <div class="project-box">
-                <h3>Movie app</h3>
-                <p>A website about movie updates implemented using html and css.</p>
-                <a href="#" class="btn">View Project</a>
+    <section id="products">
+        <h2>Our Products</h2>
+        <div class="product-container">
+            <div class="product-card">
+                <img src="./images/headphone.jpg" alt="Wireless Headphones">
+                <h3>Wireless Bluetooth Headphones</h3>
+                <p>$59.99</p>
             </div>
-            <div class="project-box">
-                
-                <h3>Grocery app</h3>
-                <p>A website for a simple grocery shop to calculate price</p>
-                <a href="#" class="btn">View Project</a>
+            <div class="product-card">
+                <img src="./images/watch.jpg" alt="Smartwatch">
+                <h3>Smart Fitness Watch</h3>
+                <p>$79.99</p>
             </div>
-            
+            <div class="product-card">
+                <img src="./images/backpack.jpeg" alt="Laptop Bag">
+                <h3>Leather Laptop Backpack</h3>
+                <p>$45.00</p>
+            </div>
+            <div class="product-card">
+                <img src="./images/mouse.jpg" alt="Gaming Mouse">
+                <h3>Gaming Mouse</h3>
+                <p>$29.99</p>
+            </div>
         </div>
     </section>
 
-    <section id="contact" class="contact">
-        <h2>Contact Me</h2>
-        <p><i class="fas fa-envelope"></i> Email: rahul@example.com</p>
-        <p><i class="fas fa-phone-alt"></i> Phone: +123 456 789</p>
-        <p><i class="fab fa-linkedin"></i> <a href="#">LinkedIn</a></p>
-        <p><i class="fab fa-github"></i> <a href="#">GitHub</a></p>
+    <section id="about">
+        <h2>About Us</h2>
+         <p>
+        At Clyro, we believe technology should not only be functional but also enhance everyday life. 
+        Since our founding, our mission has been to bring our customers the best in innovative gadgets 
+        and high-quality accessories that make work, play, and communication effortless. 
+        From wireless headphones that deliver crystal-clear sound, to smartwatches that keep you 
+        connected and motivated, to precision gaming mice that take performance to the next level — 
+        we curate products that combine performance, style, and reliability.
+    </p>
     </section>
-<footer>
-        <p>&copy; Rahul V 212223040163</p>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: support@clyro.com</p>
+        <p>Phone: +91 9876543210</p>
+    </section>
+
+    <section id="account">
+        <h2>User Account</h2>
+        <p>Login or register to manage your orders and profile.</p>
+        <button>Login</button>
+        <button>Register</button>
+    </section>
+
+    <footer>
+        <div class="social">
+            <a href="#">Facebook</a> |
+            <a href="#">Instagram</a> |
+            <a href="#">Twitter</a>
+        </div>
+        <p>&copy; 2025 Cylro. All Rights Reserved.
+            Rahul V 212223040163
+        </p>
     </footer>
 </body>
 </html>
+
 ```
 #### style.css
 ```
@@ -267,8 +290,8 @@ footer .social a:hover {
 
 
 ## OUTPUT
-<img width="1917" height="1133" alt="image" src="https://github.com/user-attachments/assets/11648af0-8388-4509-aafd-7f6f7bc84209" />
-<img width="1897" height="1035" alt="Screenshot 2025-08-10 233319" src="https://github.com/user-attachments/assets/43df6300-94b1-429f-97dc-b9b6b12bd9fc" />
+<img width="1897" height="1073" alt="Screenshot 2025-08-10 233917" src="https://github.com/user-attachments/assets/e42a7398-5843-4b4a-b3cb-c4243bf4e3e5" />
+<img width="1892" height="1090" alt="Screenshot 2025-08-10 233927" src="https://github.com/user-attachments/assets/decb6351-2574-4c0b-8667-64b2559cf50e" />
 
 
 ## RESULT
